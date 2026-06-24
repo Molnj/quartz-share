@@ -12,7 +12,7 @@ tags:
 - Találtok egy borostyán szilánkot, de a házzal együtt elporladt.
 - Arthas megpusztul egy failul felvezetett menekülés során, de Strahd visszaajándékozza.
 #  Barovia kapui
-![[Pasted image 20260624214152.png]]
+![[gates-of-barovia.png]]
 - **Átléptek Barovia kapuján** az óriási őr-szobrok közt.
 
 > [!important] LVL 3

@@ -20,7 +20,9 @@ tags:
 - Másnap reggel konfrontálódás, de Ismark nektek hisz.
 - **SLEEP.**
 
-![[tser pool.png]]
+---
+
+![[tser-pool.png]]
 
 # Találkozás Strahddal
 - Na most már tényleg elmentek Vallakiba!

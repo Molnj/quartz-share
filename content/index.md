@@ -3,4 +3,7 @@ title: Campaign Hub
 ---
 ![[strahd-art_wide.jpeg]]
 
-[[cos-log]]
+1. [[cos-log_sessions]]
+2. [[cos-log_quests]]
+3. tbd
+
