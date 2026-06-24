@@ -1,5 +1,5 @@
 ---
-title: Strahdowdark Campaign Hub
+title: Campaign Hub
 ---
 ![[strahd-art_wide.jpeg]]
 

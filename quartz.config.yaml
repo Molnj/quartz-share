@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: molnj.github.io/quartz-share
+  baseUrl: molnj.github.io/strahdowdark
   ignorePatterns:
     - private
     - templates
