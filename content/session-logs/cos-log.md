@@ -1,351 +1,52 @@
 ![[map_barovia_player_hills.jpg]]
 
 ---
-# DAY-00 (Setup)
-## ----- SESSION-00 (2023.04.15.) -----
 
-### Pathbuilder login
-- ID:   15633
-- Pass: Motyó és a Mókusok 69
-### General Info
-- Konverzió (DND5e --> PF2e)
-	- Faereun = Golarion
-	- Daggerford = Magnimar
-	- Phandalin = Sandpoint
-- Térkép
-	- [Golarion map](https://map.pathfinderwiki.com/#location=4.1/39.24/-6.49)
-	- [Golarion map meme](https://www.reddit.com/r/Pathfinder2e/comments/cmtcfs/inner_sea_map_explained_updated_to_2nd_edition/#lightbox)
-- Kalendárium (jelenlegi év)
-	- Golarion-ban: **4723 AR** (Absalom Reckoning)
-	- Barovia-ban: **735 BC** (Barovian Calendar)
-### Session 0
-- 6 Hónap **Mines of Phandelver** kampány után ideje új vizekre evezni. Vár **Barovia**!
-- Közös **DnD Honor Among Thieves** mozizás Miskolc Plázában (kino film).
-- **Aréna after**: Több órás meeting az életünk elkövetkező pár évét meghatározó kampányról.
-### Story Hook
-- Mindenkinek furcsa álmai vannak jóslatokról a sorsával kapcsolatban.
-- Egy nap 1-1 tarot kártyával mellettetek ébredtek különös látomás kíséretében.
-- Sorsotok kulcsa a rejtélyes **Madam Eva** kezében van.
-- Az első lépés hozzá Magnimar-on (*archive: Daggerdord*) keresztül vezet.
+# Day 00
+- [[cos-session-00]]
+# Day 01
+- [[cos-session-01]]
+- [[cos-session-02]]
+- [[cos-session-03]]
+# Day 02
+- [[cos-session-04]]
+- [[cos-session-05]]
 
-| **Player** | **Character**    | **Class** | **Card**                      |
-| ---------- | ---------------- | --------- | ----------------------------- |
-| Adro       | Garaele          | Wizard    | A Mester Csillag - A varázsló |
-| Boris      | Arthas Menethil  | Champion  | A 4-es Csillag - A Védelmező  |
-| Disoz      | Blaidd Gonzales  | Barbarian | A 3-as Érme - A Kereskedő     |
-| Dudu       | Ulduam           | Druid     | Az 5-ös Jelkép - A Druida     |
-| Gólem      | Ymerlith Aventir | Inventor  | Az 5-ös Kard: A mürmidón      |
-| Gólem      | Faolin           | Bard      | A 8-as Jelkép - A Pásztor     |
+# Day 03 - Neyavr 1.
+- [[cos-session-05]] (folyt.)
+- [[cos-session-06]]
+# Day 04
+- [[cos-session-07]]
+- [[cos-session-08]]
+# Day 05
+- [[cos-session-09]]
+- [[cos-session-10]]
+# Day 06
+- [[cos-session-11]]
+- [[cos-session-12]]
+# Day 07
+- [[cos-session-12]] (folyt.)
+- [[cos-session-13]]
+# Day 08
+- [[cos-session-13]] (folyt.)
+- [[cos-session-14]]
+# Day 09
+- [[cos-session-15]]
+- [[cos-session-16]]
+- [[cos-session-17]]
+- [[cos-session-18]]
+# Day 10
+- [[cos-session-19]] (folyt.)
+- [[cos-session-20]]
+- [[cos-session-21]]
+- [[cos-session-22]]
+- [[cos-session-23]]
+- [[cos-session-24]]
+- [[cos-session-25]]
+# Day 11
+- [[cos-session-26]]
+- [[cos-session-27]]
 
-### Backstories
-`TODO: ide bekerülnek majd a PC leírások`
-
-> [!question] Quest: Zsa Magnimar!
-
----
-# DAY-01 (Death House)
-![[death-house.png]]
-## ----- SESSION-01 (2023.05.13.) -----
-### Magnimar (leánykori nevén Daggerford)
-> [!success] LVL 1
-- Álmaitok Magnimar-ba vezetnek, az Árnyék negyedbe.
-- A negyed nevét onnan kapta, hogy egy hatalmas több ezer éves híd rom alatt terül el.
-- Itt az "Árny-híd" nevű kocsmába tértek be, ahol a vistani, **Stanimir** vár.
-- Mesél 1 történetet a tűznél egy királyról, akit megmentettek egy csata után.
-> [!question] Quest: Zsa Barovia!
->- Csatlakozzatok egy veszélyes útra Baroviába, hol az álmok forrása, **Madam Eva** vár!
->- Elkísér, de egy idő után nem mehet tovább, mert banished igencsak.
-### Death House
-> [!question] Quest: Zsa be a házba!
-> - 2 kisgyerek, **Rose és Thorn Durst**, megkérnek, hogy menjetek be velük a házukba, segíteni a bajbajutott kistestvérükön **Walter**en.
-> - Bezsaltok a Durst család elátkozott házába.
-
-- Rájöttök, hogy nincs kiút a házból.
-- Meghugyoztok minden kályhát.
-- Felderítitek **Gustav** félrelépését és **Elisabeth** bosszúját.
-- Találtok egy birtoklevelet valamilyen malomról.
-- Adoptáljátok **Motyót**, egy elhagyott kutyát.
-- Találtok egy lejáratot egy titkos pincébe.
-
-> [!success] LVL 2
-## ----- SESSION-02 (2023.06.03.) -----
-### Death House Pince
-- Szarka süt pár epik burgert a teamnek az elkövetkezendő borzalmak előtt.
-- Legyőztök pár szellemet meg ghoult, földhözbasztok egy kristálygömböt.
-- Hússzörny boss fight a kántáló szellem apostolok közt.
-- Megmentitek Roset, Thornt és - miután legyőzitek a pincében - Waltert.
-- Találtok egy borostyán szilánkot, de a házzal együtt elporladt.
-- Arthas megpusztul egy failul felvezetett menekülés során, de Strahd visszaajándékozza.
-###  Barovia kapui
-- **Átléptek Barovia kapuján** az óriási őr-szobrok közt.
-
-> [!success] LVL 3
-## ----- SESSION-03 (2023.07.01.) -----
-### Baroviai síkság
-- Pár parasztházba futtok az úton, nem nagyon beszédesek a parasztok.
-- Egy farkas team Baroviáig (a falu) kerget, élükön 1 kisebb fekete farkassal.
-### Barovia falva
-![[castle-ravenloft_from-barovia.png]]
-- Apró kis falu, sötét poros utcákkal.
-- A falu fölé a távolban ominozós kastély sziluettje magasodik egy hegy csúcsán
-- Mindenhol alvadt vér és romok, feltehetőleg egy nem régi csata nyomai
-- Messze a ködös égben, a város felé tornyosuló több száz láb magas meredek szirt tetején egy **hatalmas kastély** magasodik az égbe.
-- Nem sok embert látni, főtéren 1 hős szobra, név rajta: "**Ismark, a Nagy**".
-- A közelben fogadóból fény látszik.
-### A Szőlő Vére fogadó
->[!quote] Ismark, a kicsi.
-- Találkoztok **Ismark Kolyanovich**-csal: fiatal férfi, a jelenlegi polgármester.
-
-> [!info] Lore: Barovia falva
->- **Családfa**
->	- A főtéren álló szobor egy régi polgi, az ő ükapja: **Ismark Antonovich**.
->	- A vámpírok elleni hősies kiállása miatt emelték a szobrot neki.
->	- Apja az előző polgi, **Kolyan Androvich**, aki a napokban halt meg, harcban.
->- **Háború**
->	- Strahd 100+ éves álmából ébredve megostromolta seregével a falut.
->	- Ő és testvére meggyőzték a népet a harcra, de besült és tiltelnek rájuk.
->	- Azóta új gúnyneve van: **Ismark, a kicsi**
->	- Sok baroviai **Vallaki** falakkal védett városa felé menekült.
->- **Románc**
->	- Strahd valamiért különös vonzalommal tekint a testvérére, **Ireenára**.
->	- Nem erőszakos vele, bár egyszer elragadta a hév és megharapta.
->	- (Csak akkor válik valaki vámpírrá / sarjjá, ha meg is öli a harapás.)
-
->[!question] Quest: Zsa Vallaki!
->- A húgát, **Ireena Kolyanovich**-ot vigyétek el magatokkal Vallakiba.
->- A **St. Andral katedrális** szent falai közé nem léphetnek élőholtak.
-- Egy részeg vistani csávó zaklat pár vistani nőt
-	- Bevédtétek őket, azáltal, hogy kvázi beszarattátok az inast.
-	- Aki bosszúból elátkozza Ymerlithet és Blaiddot. (no moni :c)
-### Bildarth kereskedése
-- Egy kereskedés, ahol minden igen drága.
-- Kereskedő: **Bildarth Cantemir**, van egy bodyguard fogadott fia: **Parriwimple**.
-- (Másnap Garaele cidázása közben Faolin ellop 1 értékes távcsövet Bildarth szeme elől.)
->[!question] Quest: Rák úr rákúr!
->- Pár táska visszaszerzése valószínűleg halott kalandoroktól.
-### Városháza
-- Be van deszkázva minden ablak, a falakon sok karmolásnyom.
-- Bent Kolyan teste még felhantolva, ti azért még megkaróztátok.
-- Meggyőzitek Ireenát, hogy hagyja el Baroviát és tartson veletek, elég ha Ismark marad.
->[!question] Quest: Mikszáth Kolyan úr, alig ismertük magát!
->- Előtte ragaszkodik, hozzá, hogy eltemessétek az apját a helyi templom temetőjében.
-- Alszotok egyet, valaki talál egy gyerekrajzot egy lángoló karú tagról.
-- **SLEEP.**
----
-# DAY-02 (Barovia)
-## ----- SESSION-04 (2023.08.12.) -----
-### Motyó hogy összement!
-### Barovia Temploma
-- Elhanyagolt deszkatemplom a Hajnal Urának szentelve a falu északi részén.
-- A templomhoz nagy temető tartozik, ide hoztátok Kolyan testét.
-- Egy kis deszkatemplomba léptek, ahol **Donavich** atyával taliztok.
-- Az atya elvégzi a temetőben a temetést és szentségek elmondását.
-- Közben Faolin bent egy titkos lejáratot talál egy szobában.
-- Itt Doruval, a láncra vert vámpír sarjjal találkozik.
-### Doru
-> [!info] Lore: Doru lázadó korszaka
-> - Doru Donavich fia
-> - Ismark és Ireena a barátai voltak. Ismarktól kardforgatást tanult
-> - Gyerekként sokat olvasott hős szörnyvadászokról, remélve, hogy a nyomdokaikba léphet.
-> - Egy gyereket óriásfarkastól védve a vele lévő utazó (Alanik Ray) kalapja leesett, felfedve, hogy ő **Rudolph van Richten**, a híres szörnyvadász.
-> - Ezen felbuzdulva meggyőzte RvR-t, hogy rohamozzák meg egy kis sereggel Strahd (a falu felé tornyosuló) Ravenloft kastélyát.
-> - Stámadás során Doru spanja, **Escher** eltűnt, majd Strahdnak csak üres sírját lelték.
-> - Strahd lesből sújtott rájuk, szinte mindenki meghalt.
-> - Strahd kiküldte Rahadint, bejelenteni szerte az országban, hogy Barovia faluja földig lesz rombolva retorzióképp. 4 hetet ad a lakosoknak, hogy megbékéljenek isteneikkel.
-> - Dorut Strahd sarjaként kínozta, majd atyát kínzandó, hazaküldte Dorut, aki leláncolta.
-> - Donavich a konfrontálódás után megkért, hogy öljétek meg a volt fiát, de egy tál vérrel bizonyítottátok, hogy tud magán uralkodni és életben hagytátok.
-
->[!question] Quest: Merre vagy Gertruda!?
->- Gertruda Doru menyasszonya, aki az anyjával Maryvel élt.
->- Megkért, hogy keressétek meg Gertrudát, hogy épségben van-e.
->- Cserébe elmondja, hogy RvR-nek hol van elrejtve kincse.
->- Megjelenik Strahd jobb keze, a sötét elf **Rahadin**. Kifejezi ura részvétét.
->- Körülötte szenvedő lelkek könyörgésének és sikolyainak kakofóniája. Nagy tag.
-### Mad Mary háza
-- A városban él egy kissé megbolondult nő, **Mad Mary**, aki egyedül él.
-- Úgy tűnik Motyó Gertruda kutyája volt.
-
->[!question] Quest: Merre vagy Gertrudaaaaaaaa!!!!?
->- Gertruda (a lánya) eltűnt, kérte h kerítsétek meg!
-## ----- SESSION-05 (2023.09.09.) -----
->[!bug] Disoz itt fadelt, never forgetti !
-### Baroviai Felderítők
-- Elindultok Ireenával Vallaki felé.
-- A hídnál Faolin túszpárbajba keveredik pár felderítővel, de elsimítja diplomatikusan.
-- Meséltek a menekült baroviaiakról, és hogy egy 5 tagú családot keresnek
-- Doru elmesélte, hogy egy fánál RvR-nek volt egy kis vésztartaléka, arra rárepültök, itt találjátok a családot, már élőholtakként. --> **Zombi Fight**.
-### Bildarth Side Quest
-- Ezután csináltok egy 180-as fordulatot megcsinálni Bildarth questjét.
-- **Rák Fight**.
-- Jutalomból Garaele megszerzi a sárgaréz tűzhelyet Jocóka summonálásához.
-- Ismark kétségbeesésére visszatértek Baroviába aludni egyet.
-- Bildarth meglopása Faolin által, Garingyó szopás baittel.
-- Loot: [Stargazer's Spyglass](https://2e.aonprd.com/Equipment.aspx?ID=2413)
-- Másnap reggel konfrontálódás, de Ismark nektek hisz.
-- **SLEEP.**
----
-# DAY-03 (Tser Pool) - Neyavr 1.
-![[tser pool.png]]
-## SESSION-05 (cont.)
-### Találkozás Strahddal
-- Na most már tényleg elmentek Vallakiba!
-- Az úton találkoztok magával **Strahddal**
-- Vendégekként üdvözölt titeket a birodalmában, majd feltett néhány kérdést nektek.
-- Rövid beszélgetés után sietősen a dolgára indult.
-- Ireena az arcán lévő a vágásról felismeri a kocsisát: Doru volt barátja **Escher.**
-- note: Motyó itt jobban is felkészülhetett volna a RP-re. :c
-### Kék szárnyú varjú
-- Valamilyen fákból tákolt mechanikus óriásmadár harcol egy kék szárnyú varjjal.
-- Megmentitek a varjat, cserébe a repülő fa sas 1-tappeli Garaelet.
-- Ezután az erdőbe menekültök előle, ezután a Ghakis hegy felé repül.
-- Ezüstös tüskék állnak ki a varjúból, aki már alig él.
-- Ezeket kihúzva a sebei hamar begyógyulnak.
-- Ulduam beszél vele kicsit, de csak gilisztákról károg.
-### Tser-tó - Madam Eva
-- Találkoztok Madam Eva-val, aki iderendelt titeket.
-- Mindenki megkapja a jóslatait tőle.
-- Ezen felül kaptok 5 másik jövendölést is.
-- Végezetül leszedte rólatok az átkokat és Motyóról is egy _Scry_ spellt
-### Egyéni jóslatok
-> [!question] **Garaele** (Adro) - A Mester Csillag: A varázsló
-> ≻────────────── ⋆✩⋆ ──────────────≺
-> Tűz ég a szívedben, és csillag ragyog a szemedben.
-> Találd meg a mágus pálcáját az Ördögi várrom alatti nyughelyen.
-> Az ő neve a hatalom, amit keresel.
-> ≻────────────── ⋆✩⋆ ──────────────≺
-
-> [!question] **Arthas Menethil** (Boris) - A 4-es Csillag: A Védelmező
-> ≻────────────── ⋆✩⋆ ──────────────≺
-> Szemed lángban ég, és szíved vérért kiált.
-> Egy bukott házat látok, amelyet kősárkány őriz.
-> Emeld tekinteted a legmagasabb csúcs felé.
-> ≻────────────── ⋆✩⋆ ──────────────≺
-
-> [!question] **Blaidd Gonzales** (Disoz) - A 3-as Érme: A Kereskedő
-> ≻────────────── ⋆✩⋆ ──────────────≺
-> A benned élő vad vérszomja éget, s mégis... minden lény megszelídíthető.
-> Kutass a szőlőtőkék közt, s a tollasok vezérét megleled.
-> Öreg csontjaiban nagy bölcsesség lakozik.
-> ≻────────────── ⋆✩⋆ ──────────────≺
-
-> [!question] **Ulduam** (Dudu) - Az 5-ös Jelkép: A Druida
-> ≻────────────── ⋆✩⋆ ──────────────≺
-> Egy gonosz fa nő egy sírdomb tetején, ahol az ősi holtak szunnyadnak.
-> A hollétének titkát a hollók őrzik. A gyökereiből megalkothatod a megváltásodat.
-> ≻────────────── ⋆✩⋆ ──────────────≺
-
-> [!question] **Ymerlith Aventir** (Gólem) Az 5-ös Kard: A mürmidón
-> ≻────────────── ⋆✩⋆ ──────────────≺
-> A tóra néző hegyekben, keresd a Hold átkozottjainak barlangját.
-> Az Éj Anya kincsét ott megleled.
-> ≻────────────── ⋆✩⋆ ──────────────≺
-
-> [!question] **Faolin** (Sparch) - A 8-as Jelkép: A Pásztor
-> ≻────────────── ⋆✩⋆ ──────────────≺
-> Az Ördög az ősi. Az Ördög a föld. Helyre kell állítsd a Három Hölgy szent oltárait,
-> kiknek suttogása olyan, mint a szél, s kiknek könnyei olyanok, mint a harmat.
-> Keresd a ködös dombot, a vízbe fulladt szellemeket és a magányos malmot.
-> Hallgasd a holló kiáltását.
-≻────────────── ⋆✩⋆ ──────────────≺
-#### **Közös jóslatok**
-> [!question] **History**
-> ≻────────────── ⋆✩⋆ ──────────────≺
-> Ez a kártya a történelmet mesél. Az ősök ismerete segít megérteni az ellenséget.
-> Keresd a gazdag nőt, ki az ördög hűséges szövetségese.
-> Ő tartja lakat alatt, a kincset, az ősi **ellenség csontjait**.
-> Látom egy régi és előkelő ház ősi ellenségét. Az eltévedt lélek elvezet hozzá.
-> ≻────────────── ⋆✩⋆ ──────────────≺
-
-> [!question] **Symbol**
-> ≻────────────── ⋆✩⋆ ──────────────≺
-> Ez a kártya a jót szolgáló erőről, nagy reménység **szent szimbólumáról** szól.
-> Keresd a farkasok oltárát a tóra néző dombok közt. A kincs, mit rejt, az Éj Anyáé.
-> ≻────────────── ⋆✩⋆ ──────────────≺
-
-> [!question] **Weapon**
-> ≻────────────── ⋆✩⋆ ──────────────≺
-> Ez az erő és az hatalom kártyája. A bosszú fegyveréről mesél: a **napfény kardjáról**.
-> Amit keresel, kincsek közt leled. Hatalmas borostyán ajtókon túl.
-> ≻────────────── ⋆✩⋆ ──────────────≺
-
-> [!question] **Ally**
-> ≻────────────── ⋆✩⋆ ──────────────≺
-> Ez a kártya rávilágít arra, aki nagy segítségedre lesz a sötétség elleni harcban.
-> Egy **vistana** egyedül bolyong ezen a földön, és keresi a régi mentorát.
-> Nem marad sokáig egy helyen. Keresd őt a Saint Markovia apátságban, a köd szélénél.
-> ≻────────────── ⋆✩⋆ ──────────────≺
-
-> [!question] **Final Destination**
-> ≻────────────── ⋆✩⋆ ──────────────≺
-> Ellenséged a sötétség teremtménye, akinek ereje túlmutat a halandóságon is.
-> Amikor eljön az ítélet órája, ez a kártya elvezet téged hozzá!
-> Tekints nagy magasságokba. Keresd a kastély dobogó **szívét**. A közelben vár.
-> ≻────────────── ⋆✩⋆ ──────────────<
-## ----- SESSION-06 (2023.10.07.) -----
-### Történetmesélés
-- Igaz/Hamis Sztorimesélő versenybe bocsátkoztok a tűznél pár vistanival (Elza & Arturi)
-
-> [!info] Elza meséje
->- (Félig igaz: a szimbólumot senki nem tudja hová lett.)
->- Fennkölt stílusban beszél valamilyen varjak által mesélt történelemről.
->- **Lugdana**, a Hajnal Urának fényes paladinja.
->- A **Varj-nép Szent Szimbóluma**, egy harcos elszántságának fényes testamentuma.
->- A zöld démon, **Chernogov** felemelkedése és küzdelme a már ősz Lugdanával a Yester dombon.
->- Lugdana győzelme az élete árán.
->- Angyal fekete tollal és csőrrel, felemeli magával Lugdanát és a jelképet.
-
-> [!info] Arturi meséje
-> - (Igaz, de nem fejti ki jobban.) - (Kicsit más volt, de vmi ilyesmi.)
-> - Volt egy vén ezüstös róka, aki az erdő orvosa volt.
-> - Egy este verebek hozták el fiókájukat, de túl késő volt, nem tudott segíteni.
-> - Bosszúból a verebek ellopták a róka kölykét, majd a farkasnak adták, aki felfalta őt.
-> - A róka a föld alá ment a patkányokhoz, akik utálták a verebek dalait és segítséget kért.
-> - A verebek fészkeihez vezette őket, s a patkányok az egész verébrajt elpusztították.
-> - Azóta sincs madárdal az erdőben, amiben a róka bolyong.
-
-> [!info] Ireena meséje
-> - (Hamis - csak álmodja gyakran, nincs is tó Barovia környékén, azt pedig sosem hagyta el.)
-> - Az apja egyszer elvitte őt és testvérét egy tóhoz, ahol egy óriásfarkas rájuk támadt.
-> - Elmenekült, de eltévedt az erdő ködös gazos sűrűjében.
-> - Körülötte a köd farkas formát vett fel elnyelte, miután el is vesztette az eszméletét.
-> - Aztán arra ébredt, hogy otthon fekszik az ágyában, a családja körében.
-
-> [!info] PC sztorik
-> - "**TODO**": saját mesélt sztorikat beaddolhatjátok
-> - **Arthas**
-> 	- ...
-> - **Blaidd**
-> 	- ...
-> - **Faolin**
-> 	- ...
-> - **Garaele**
-> 	- ...
-> - **Ulduam**
-> 	- ...
-> - **Ymerlith**
-> 	- ...
-- **Ymerlith nyeri a tippeléseket**. LOOT: tükör teleszkópos rúdon, vérfarkas tutorial by RvR
-### Vérfarkas Tutorial
-> [!info] Lore: Lycantrófia (vérlények?) - TODO: RvR Guide kiegészítés
-> - Többféle lycantrófia létezik, de a farkas az egyik legveszedelmesebb.
-> - Kialakulásának 2 oka lehet:
-> 	- genetika (gyógyíthatatlan),
-> 	- harapás (gyógyítható erős varázslattal) (amíg fertőzött, a seb nem gyógyul)
-> - Minden lycantrófia egyfajta alter-egót ad. (pl: Hulk vs Banner)
-> 	- **Elfogadhatod**:
-> 		- Ekkor bármikor átalakulhatsz és mindig aktív minden bónusz.
-> 		- De gyakorlatilag örökre elveszted önmagadat (csak NPC).
-> 	- **Küzdhetsz ellene**:
-> 		- Ekkor nem kapod meg az előnyeit.
-> 		- De teliholdkor így is eluralkodik rajtad a farkas (annak minden képességével).
-> 	- **Köztes út**: Megpróbálhatsz uralkodni felette --> Animal Instinct, Werecreature Archetype
-> - Általános képességek:
-> 	- alakváltás - 3 forma: ember, állat, hibrid
-> 	- Ellenállás minden fizikai sebzésre (kivéve ha ezüstözött)
-> - **Vérfarkasok**
-> 	- Farkas lycantrófia esetén az alter-ego mindig gonosz.
-> 	- Farkasfű-főzet megakadályozhatja 1 éjszakára az átalakulást teliholdkor.
-- **SLEEP.**
 ---
 # DAY-04 (Road to Vallaki)
 ## ----- SESSION-07 (2023.10.28.) -----
