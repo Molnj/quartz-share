@@ -54,7 +54,7 @@ Doru megkegyelmezése; Kolyan Indirovich (volt polgi) temetése; Rák side-quest
 
 - [[cos-session-05#Találkozás Strahddal|SESSION 05]] (folyt.)
 - [[cos-session-06|SESSION 06]]
-
+ 
 ## Day 04
 
 Út Vallakiba: Öreg Malom; Sunyi Bokor; és Vérfarkas a Zarovich-tónál.
@@ -139,5 +139,5 @@ Pacsizás Blaiddal a farkasveremnél; Argynvostholt quest elkezdése
 [[cos-session-30|SESSION 30]] tbd
 
 %% 
-Ezt nem látjátok faszoskáim!
+Ezt nem látjátok faszoskáim !
 %%
