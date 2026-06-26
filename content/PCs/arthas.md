@@ -1,11 +1,9 @@
 ---
-title: Arthas (Bukott Bajnok)
 tags:
   - tg
   - strahd
-aliases:
 ---
-# Arthas
+# Arthas Menethil
 
 ![[arthas.png]]
 **Játékos:** Bohi

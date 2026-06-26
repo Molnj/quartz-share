@@ -5,7 +5,7 @@ tags:
   - pc
 ---
 ---
-# Blaidd
+# Blaidd Gonzalo
 
 ![[blaidd.png]]
 
