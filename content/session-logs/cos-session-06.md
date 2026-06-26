@@ -77,4 +77,3 @@ tags:
 - **SLEEP.**
 
 *IDK, amúgy gyanús h ez nem egy külön session volt, de mindegy úgyse olvassa ezt senki. Ha esetleg mégis, akkor nyugtasson a tudat belülről, hogy jobb vagy, mint a többiek!*
-

@@ -3,6 +3,7 @@ tags:
   - tg
   - strahd
 ---
+2023.09.09.
 ![[map_sesh-05.jpg]]
 
 >[!bug] Disoz itt fadelt, never forgetti !
@@ -22,9 +23,6 @@ tags:
 - **SLEEP.**
 
 ---
-
-![[tser-pool.png]]
-
 # Találkozás Strahddal
 - Na most már tényleg elmentek Vallakiba!
 - Az úton találkoztok magával **Strahddal**
@@ -32,6 +30,7 @@ tags:
 - Rövid beszélgetés után sietősen a dolgára indult.
 - Ireena az arcán lévő a vágásról felismeri a kocsisát: Doru volt barátja **Escher.**
 - note: Motyó itt jobban is felkészülhetett volna a RP-re. :c
+
 # Kék szárnyú holló
 - Valamilyen fákból tákolt mechanikus óriásmadár harcol egy kék szárnyú hollóval.
 - Megmentitek a varjat, cserébe a repülő fa sas 1-tappeli Garaelet.
@@ -39,7 +38,11 @@ tags:
 - Ezüstös tüskék állnak ki a varjúból, aki már alig él.
 - Ezeket kihúzva a sebei hamar begyógyulnak.
 - Ulduam beszél vele kicsit, de csak gilisztákról károg.
+
 # Tser-tó - Madam Eva
+
+![[tser-pool.png]]
+
 - Találkoztok Madam Eva-val, aki iderendelt titeket.
 - Mindenki megkapja a jóslatait tőle.
 - Ezen felül kaptok 5 másik jövendölést is.

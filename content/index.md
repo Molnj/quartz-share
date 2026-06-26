@@ -24,6 +24,9 @@ title: Campaign Hub
 
 # SESSION LOG
 
+START: 2023.04.25.
+END: 2026.??.??.
+
 ## Day 00
 
 Közös filmezés és felkészülés a kampányra. Még nem tudtuk mi vár ránk.
@@ -34,99 +37,98 @@ Közös filmezés és felkészülés a kampányra. Még nem tudtuk mi vár ránk
 
 Death House legyőzése; Belépés Barovia kapuin; Eljutás Barovia falvába.
 
-- [[cos-session-01]]
-- [[cos-session-02]]
-- [[cos-session-03]]
+- [[cos-session-01|SESSION 01]]
+- [[cos-session-02|SESSION 02]]
+- [[cos-session-03|SESSION 03]]
 
 ## Day 02
 
 Doru megkegyelmezése; Kolyan Indirovich (volt polgi) temetése; Rák side-quest.
 
-- [[cos-session-04]]
-- [[cos-session-05]]
+- [[cos-session-04|SESSION 04]]
+- [[cos-session-05|SESSION 05]]
 
 ## Day 03
 
 **Neyavr 01.** (hónap elseje); Út a Tser-öbölbe; Első találkozás Strahddal; Madam Eva jóslata.
 
-- [[cos-session-05]] (folyt.)
-- [[cos-session-06]]
+- [[cos-session-05#Találkozás Strahddal|SESSION 05]] (folyt.)
+- [[cos-session-06|SESSION 06]]
 
 ## Day 04
 
 Út Vallakiba: Öreg Malom; Sunyi Bokor; és Vérfarkas a Zarovich-tónál.
 
-- [[cos-session-07]]
+- [[cos-session-07|SESSION 07]]
 - *extra: Baris one-shot*
-- [[cos-session-08]]
+- [[cos-session-08|SESSION 08]]
 
 ## Day 05
 
 Szent Andral csontjainak visszaszerzése; Nyomozás az eltűnt Arabelle után; Rahadin meghívója.
 
-- [[cos-session-08]] (folyt.)
-- [[cos-session-09]]
-- [[cos-session-10]]
+- [[cos-session-08#Rictavio Sus|SESSION 08]] (folyt.)
+- [[cos-session-09|SESSION 09]]
+- [[cos-session-10|SESSION 10]]
 
 ## Day 06
 
 Khazam tornyának felkutatása; Az első út Argynvostholtba.
 
-- [[cos-session-11]]
-- [[cos-session-12]]
+- [[cos-session-11|SESSION 11]]
+- [[cos-session-12|SESSION 12]]
 
 ## Day 07
 
 Rudolph van Rictavio reveal; Arabelle megtalálása; Vacsora a Wachter házban.
 
-- [[cos-session-12#Rictavio Reveal|Session 12]] (folyt.)
-- [[cos-session-13]]
+- [[cos-session-12#Rictavio Reveal|SESSION 12]] (folyt.)
+- [[cos-session-13|SESSION 13]]
 
 ## Day 08
 
 Fiona Wachter puccsa Izek Strazni megmérgezésével és kivégzésével.
 
-- [[cos-session-13]] (folyt.)
-- [[cos-session-14]]
+- [[cos-session-13#Borcsempészet|SESSION 13]] (folyt.)
+- [[cos-session-14|SESSION 14]]
 
 ## Day 09
 
 **Perzselő nap fesztivál**; Balhé a boszival; Vallaki hőseinek ünneplése.
 
-- [[cos-session-15]]
+- [[cos-session-15|SESSION 15]]
 - *PF2e Otari tutorial pt-1*
 - *PF2e Otari tutorial pt-2*
-- [[cos-session-16]]
-- [[cos-session-17]]
-- [[cos-session-18]]
-- [[cos-session-19]]
+- [[cos-session-16|SESSION 16]]
+- [[cos-session-17|SESSION 17]]
+- [[cos-session-18|SESSION 18]]
+- [[cos-session-19|SESSION 19]]
 
 ## Day 10
 
 Gyógyulgatás Krezk falainál; A Borászat felszabadítása; **Vacsora Strahddal**.
 
-- [[cos-session-19]] (folyt.)
-- [[cos-session-20]]
-- [[cos-session-21]]
-- [[cos-session-22]]
-- [[cos-session-23]] x
-- [[cos-session-24]]
-- [[cos-session-25]]
+- [[cos-session-19#Borhiány|SESSION 19]] (folyt.)
+- [[cos-session-20|SESSION 20]]
+- [[cos-session-21|SESSION 21]]
+- [[cos-session-22|SESSION 22]]
+- [[cos-session-23|SESSION 23]] x
+- [[cos-session-24|SESSION 24]]
+- [[cos-session-25|SESSION 25]]
 
 ## Day 11
 
 Búcsú Strahdtól; Vistani shopping; Boszi leszámolás; Druida ceremónia; **Telihold**.
 
-- [[cos-session-26]]
-- [[cos-session-27]]
+- [[cos-session-26||SESSION 26]]
+- [[cos-session-27|SESSION 27]]
 
 ## Day 12
 
 Blaidd eltűnése; Krezk kárfelbecslése; Kirándulás az Apátságba; Markovia megidézése Ezmeraldával, Strahd naplójának spammelése.
 
-- [[cos-session-28]]
-- [[cos-session-29]]
-- [[cos-session-30]]
+- [[cos-session-28|SESSION 28]]
+- [[cos-session-29|SESSION 29]]
 - *OSE: Hoe in the Oak*
 - *Shadowdark: Temple of the Scarlet Minotaur*
 
@@ -134,4 +136,4 @@ Blaidd eltűnése; Krezk kárfelbecslése; Kirándulás az Apátságba; Markovia
 
 Pacsizás Blaiddal a farkasveremnél; Argynvostholt quest elkezdése
 
-[[cos-session-31]] tbd
+[[cos-session-30|SESSION 30]] tbd

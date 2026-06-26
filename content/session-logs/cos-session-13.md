@@ -70,7 +70,7 @@ tags:
 
 ---
 
-# Bor csempészet
+# Borcsempészet
 - Reggel kaptok mérgezett bort, hogy legyengítsétek vele Izeket.
 - Kaptok eligazítást is a napi rutinjáról.
 - Követitek a reggeli útján sunyiban és amíg Ulduam egy kutyával verekszik, addig Faolin ki-csikicsukizza az eredeti bort a mérgezettel konyhásnéniként.
