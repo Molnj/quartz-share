@@ -137,3 +137,5 @@ Blaidd eltűnése; Krezk kárfelbecslése; Kirándulás az Apátságba; Markovia
 Pacsizás Blaiddal a farkasveremnél; Argynvostholt quest elkezdése
 
 [[cos-session-30|SESSION 30]] tbd
+
+%% Ezt nem látjátok faszoskáim!
