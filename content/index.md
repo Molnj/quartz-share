@@ -1,11 +1,15 @@
 ---
 title: Campaign Hub
 ---
+⭐ **Session 32:** 2026.06.27. ⭐
+
 ![[strahd-art_wide.jpeg]]
 
 ![[map_barovia_player_hills.jpg]]
 
 ---
+- [[quest-log|Quest Log]]
+- [[next-session|Next Session]] -- https://strawpoll.com/GJn44mjamnz
 
 # Day 00
 Közös filmezés és felkészülés a kampányra. Még nem tudtuk mi vár ránk.
@@ -72,6 +76,14 @@ Gyógyulgatás Krezk falainál; A Borászat felszabadítása; **Vacsora Strahdda
 
 
 ---
+<<<<<<< HEAD
+=======
+# Next Session
+
+<iframe src="https://strawpoll.com/GJn44mjamnz" style="width: 100%; height: 600px; border: none;" allowfullscreen></iframe>
+
+---
+>>>>>>> e2f9bf9 (Obsidian vault sync)
 
 ## ----- SESSION-20 (2025.05.10.) -----
 ### Blight Trap
