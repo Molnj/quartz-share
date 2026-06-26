@@ -60,10 +60,11 @@ tags:
 > 	- Ebből számára a tanulság: **a túlélés kulcsa a meghajlás, nem a szembeszegülés**.
 > 	- A Nap Urának híveit naiv álmodozóknak tartja.
 > 	- Ezra tanítása szerint _„a fűzfa meghajlik a szélben és túlél, az erős tölgy viszont eltörik”_.
-	
->[!done] Bor csere
+
+>[!done] QUEST (Fiona Wachter): Bor csere
 >-  Fiona akar lenni az új polgármester, de a leváltást akadályozza Izek.
->- Csempésszetek Izeknek mérgezett bort, majd iktassátok ki!
+>- **TASK:** Csempésszetek Izeknek mérgezett bort, majd iktassátok ki!
+>- **REWARD:** Presztízs a városban és jobb fegyverek.
 
 - **SLEEP. **
 
@@ -77,4 +78,3 @@ tags:
 
 # _Motyó Magic Box Preview_
 - impressive, very nice
-

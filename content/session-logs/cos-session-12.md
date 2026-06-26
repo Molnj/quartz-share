@@ -50,8 +50,8 @@ tags:
 > 	- Mikor ellenkezni kezdtek, akkor kitiltotta őket Argnvostholtból
 > 	- Csak SGG maradhatott, aki egyedi büntetést kapott
 
-> [!question] Quest: Lord Argynvost szelleme
-> - SGG megkér, hogy kutassátok át Argynvostholtot.
+> [!question] QUEST (Sir Godfrey Gwylim): Lord Argynvost szelleme
+> - **TASK:** Kutassátok át Argynvostholtot.
 > - Azt beszélik, hogy Argynvost szelleme újra a falak közt jár, beszéljetek vele.
 > - Kerüljétek el **Horngaard**ot, mert nem tűri a betolakodókat, főleg, ha Strahd ellenségei!
 > - Előfeltétel:

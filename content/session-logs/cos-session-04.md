@@ -31,16 +31,17 @@ tags:
 > - Dorut Strahd sarjaként kínozta, majd atyát kínzandó, hazaküldte Dorut, aki leláncolta.
 > - Donavich a konfrontálódás után megkért, hogy öljétek meg a volt fiát, de egy tál vérrel bizonyítottátok, hogy tud magán uralkodni és életben hagytátok.
 
->[!question] Quest: Merre vagy Gertruda!?
->- Gertruda Doru menyasszonya, aki az anyjával Maryvel élt.
->- Megkért, hogy keressétek meg Gertrudát, hogy épségben van-e.
->- Cserébe elmondja, hogy RvR-nek hol van elrejtve kincse.
->- Megjelenik Strahd jobb keze, a sötét elf **Rahadin**. Kifejezi ura részvétét.
->- Körülötte szenvedő lelkek könyörgésének és sikolyainak kakofóniája. Nagy tag.
+>[!question] QUEST (Doru): Merre vagy Gertruda!?
+>- **TASK:** Keressétek meg *Gertrudát* (az eltűnt menyasszonya).
+>- **REWARD:** Most elmondja, hogy RvR-nek hol van elrejtve kincse.
+
+- Kimentek a sírkertbe, hogy befejezzétek Ireena apjának temetését.
+- Megjelenik Strahd jobb keze, a sötét elf **Rahadin**. Kifejezi ura részvétét.
+- Körülötte szenvedő lelkek könyörgésének és sikolyainak kakofóniája. Nagy tag.
 
 # Mad Mary háza
 - A városban él egy kissé megbolondult nő, **Mad Mary**, aki egyedül él.
 - Úgy tűnik Motyó Gertruda kutyája volt.
 
->[!question] Quest: Merre vagy Gertruda?!
->- Gertruda (a lánya) eltűnt, kérte h kerítsétek meg!
+>[!question] QUEST (Mad Mary, AKA Őrült Mária): Merre vagy Gertruda?!
+>- **TASK:** Gertruda (a lánya) eltűnt, kérte h kerítsétek meg!

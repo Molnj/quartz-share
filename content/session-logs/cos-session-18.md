@@ -45,7 +45,7 @@ tags:
 
 # A Napló használata
 
->[!success] Strahd naplója (ITEM 14)
+>[!note] Strahd naplója (ITEM 14)
 >- **Szint**: 14
 >- **Ritkaság**: Unique artifact
 >- **Használat**: 2 kézzel tartva; Bulk 2

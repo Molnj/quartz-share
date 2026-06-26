@@ -84,8 +84,9 @@ tags:
 - Elmeséli, hogy eltűntek Szent Andral csontjai a katedrális alatti kriptákból.
 - Ha nem kerülnek meg, akkor a fesztivál napján múlva elmúlik a szent védelem a katedrálisról, mert akkor újította volna meg egy szent rituáléval a következő évre.
 
->[!done] Hol vagytok Szent Andral csontjai!?
->- Keressétek meg és vigyétek vissza a csontokat, mielőtt túl késő lenne!
+>[!done] QUEST (Lucian) Hol vagytok Szent Andral csontjai!?
+>- **TASK:** Keressétek meg és vigyétek vissza a csontokat, mielőtt túl késő lenne!
+>- **REWARD:** Nem basszák szét Vallakit, a fő mentsváratokat.
 
 # Milvoj és Henrik
 

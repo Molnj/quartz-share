@@ -15,7 +15,9 @@ tags:
 - Kikerültök a baroviai menekülttáborba és találkoztok egy kb haldokló taggal (TODO: neve).
 - Elmondja, hogy eladta a gyerekeit Morganthának álomsütikért cserébe, úgy ráfüggött.
 
->[!fail] Quest: Hozzátok vissza a gyerekeket pls!
+>[!fail] QUEST (Franz): Hozzátok vissza a gyerekemet!
+> - Álomsütikért cserűbe eladta  a gyerekeit (Feodor és Myrtle) is a boszinak.
+> - **TASK:** Megbánta, szerezzétek vissza őket.
 ### Morgantha deal
 - Vesztek pár süti Morganthától
 - Felajánl nektek egy dealt.
@@ -29,7 +31,7 @@ tags:
 
 ---
 
-# Otari-pt.1 
+# Otari-pt.1
 
 2024.11.23.
 
@@ -39,7 +41,7 @@ tags:
 
 ---
 
-# Otari-pt.2 
+# Otari-pt.2
 
 2024.12.22.
 

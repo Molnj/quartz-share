@@ -30,7 +30,7 @@ tags:
 	    - Bevédi a borostyán szilánk.
 
 >[!bug] **Álom sütik**
-> Ezt inkább **elengedem**, Sickened 1 és Stupefied 1 volt Faolin mert ellenállt az addikciónak, de már nem tudom követni miért és nincs jó remaster content jelenleg + Garaele már lvl 2-3 addikcióban volt. 
+> Ezt inkább **elengedem**, Sickened 1 és Stupefied 1 volt Faolin mert ellenállt az addikciónak, de már nem tudom követni miért és nincs jó remaster content jelenleg + Garaele már lvl 2-3 addikcióban volt.
 
 ---
 
@@ -40,9 +40,10 @@ tags:
 - Reggeli közben beszélgettek a kocsmáros Urwin Martikovval
 - Panaszkodik, hogy egyre fogy a bora és nem jön utánpótlás pár napja.
 
->[!done] **Nincs bor! :(**
->- Csekkoljátok miért fail a Szőlő Varázslója borászatból + hozzatok 1 hordó bort.
->- **Reward: 150g**
+>[!done] **QUEST (Urwin): Nincs bor! :(**
+>- Régóta nem jött borszállítmány a Szőlő Varázslója borászatból.
+>- **TASK:** Csekkoljátok miért  + hozzatok 1 hordó bort.
+>- **REWARD:** 150 g
 
 # Need for Speed
 - Vesztek 2 lovat (**draft horse**) és 1 **szekeret** a visztániaktól (40 ft speed).

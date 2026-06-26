@@ -12,11 +12,11 @@
 
 # Madam Eva quest
 
->[!done] Quest: Szülcsinapcsi ajcsi
->- Vegyetek Vallakiban valamit **Blinsky** játékmestertől, **Arabelle** szülinapjára!
+>[!done] QUEST (Madam Eva): Szülcsinapcsi ajcsi
+>- **TASK:** Vegyetek Vallakiban vmit **Blinsky** játékmestertől, **Arabelle** szülinapjára!
 >- Arabelle az ük-unokahúga, aki Vallakitól délre él egy vistani táborban.
 >- Apja, **Luvash** és annak testvére, **Arrigal** a vezérek.
->- Ad az ajándékra 10g-t, tartsátok meg az aprót.
+>- **REWARD:** Ad az ajándékra 10g-t, tartsátok meg az aprót.
 
 # Vízesés zsákutca
 - Elindultok a táborból most már tényleg Vallaki felé!
@@ -30,8 +30,8 @@
 - Egy névtelen szellem lovagba botlotok
 - Mikor megtudja, hogy Strahd ellenségei vagytok, barátságosabb lesz veletek.
 
->[!done] Quest: Zsa Argynvostholt!
->- Menjetek el **SIR GODFREY GWYLIM**hoz Argynvostholtba (Vallaki után ezüstös út délre)
+>[!done] QUEST (névtelen visszatérő): Zsa Argynvostholt!
+>- **TASK** Menjetek el **SIR GODFREY GWYLIM**hoz Argynvostholtba (Vallaki után ezüstös út délre)
 
 # Öreg Malom
 

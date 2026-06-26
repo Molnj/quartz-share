@@ -42,9 +42,10 @@ tags:
 >	- Nem erőszakos vele, bár egyszer elragadta a hév és megharapta.
 >	- (Csak akkor válik valaki vámpírrá / sarjjá, ha meg is öli a harapás.)
 
->[!done] Quest: Zsa Vallaki!
->- A húgát, **Ireena Kolyanovich**-ot vigyétek el magatokkal Vallakiba.
->- A **St. Andral katedrális** szent falai közé nem léphetnek élőholtak.
+>[!done] QUEST (Ismark): Ireena őrzése!
+>-  **TASK:** A húgát, **Ireena Kolyanovich**-ot vigyétek el magatokkal Vallakiba.
+>- A *St. Andral katedrális* szent falai közé nem léphetnek élőholtak.
+>- **REWARD:** Mittoménmár.
 
 - Egy részeg vistani csávó zaklat pár vistani nőt
 	- Bevédtétek őket, azáltal, hogy kvázi beszarattátok az inast.

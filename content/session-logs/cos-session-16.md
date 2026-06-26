@@ -19,7 +19,7 @@ tags:
 - Arthas a helyi parancsnoka - megosztva a címet egy helyi tiszttel (Igor) mert ő csámborog.
 - Kaptok egy rakás rúna lootot hálából.
 
->[!success] LVL 5
+>[!important] LVL 5
 
 *rövid session - még PF2e szédülés van)*
 

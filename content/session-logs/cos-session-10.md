@@ -17,9 +17,10 @@ tags:
 	- Luvash (Arabella faterja) ostorozza. Sérült a lába, mert csapdába lépett kereséskor.
 	- Arrigal (a félszemű testvére) leállítja, mikor látja, hogy vendégek jöttek.
 
->[!done] Merre vagy Arabelle?
->- Keressétek meg a lányt, cserébe kaptok fincsi lootot!
->- Egy gyűrűt találtak a helyszínek, ami most az elfek vezetőjénél, Kasimirnál van.
+>[!done] QUEST (Luvash & Arrigal): Merre vagy Arabelle?
+>- **TASK:** Keressétek meg a Luvash lányát, Arrabellet.
+>-  Egy gyűrűt találtak a helyszínek, ami most az elfek vezetőjénél, Kasimirnál van.
+>- **REWARD:** kaptok fincsi lootot!
 
 # Kasimir Velikov
 
@@ -70,9 +71,9 @@ tags:
 	- Stellával egy teleportációs körön dolgoztak, hogy elhagyhassák Baroviát.
 	- Nem sikerült és Stella lelke az éteri síkon maradt, egyre halványodva.
 
->[!done] Quest: Zsa Khazam torony!
->- Megkért, hogy menjetek el (Szoldar vezet) Khazam varázslótornyába (ha létezik)
->- Elvileg ott lehet 1 varázsbotnak, ami megjelenik, ha a Khazam varázsszót kimondjátok.
+>[!question] QUEST (Viktor): Khazam botjának megszerzése!
+>- **TASK:** Menjetek el (Szoldar vezetésével) Khazam varázslótornyába (ha létezik).
+>- Elv ott van 1 varázsbot, ami megjelenik, ha a "KHAZAM" varázsszót kimondjátok.
 >- A jelek egyébként is elvezethetnek Arabellához, hiszen passzolnak a gyűrűhöz.
 
 - Ezután lezsírozzátok Szoldarral az útvezetést és mentek aludni.

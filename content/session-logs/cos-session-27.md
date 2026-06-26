@@ -3,6 +3,6 @@ tags:
   - tg
   - strahd
 ---
-x
+2025.11.29.
 ![[map_sesh-27.jpg]]
 

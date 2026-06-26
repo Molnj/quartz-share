@@ -3,5 +3,5 @@ tags:
   - tg
   - strahd
 ---
-2025.10.25.
-![[map_sesh-26.jpg]]
+2026.02.28.
+![[map_sesh-30.jpg]]
