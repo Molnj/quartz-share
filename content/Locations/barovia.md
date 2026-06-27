@@ -3,6 +3,7 @@ tags:
   - tg
   - strahd
 ---
+
 # Barovia (Falu)
 
 ![[map_barovia-falu.png]]
@@ -22,12 +23,14 @@ tags:
 
 ## 💀 NPC Adatbázis
 
-| Név                                                            | Típus         | Státusz        | Leírás / Szerep                                                                                                                          |
-| :------------------------------------------------------------- | :------------ | :------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
-| **Ismark Kolyanovich**<br>![[Pasted image 20260627102551.png]] | Szövetséges   | Él             | A falu új (vonakodó) polgármestere, becenevén "Kisebb Ismark". Fő célja, hogy húgát, Ireenát biztonságba helyezze.                       |
-| **Ireena Kolyana**<br>![[Pasted image 20260627102922.png]]     | Szövetséges   | Él             | Ismark (örökbefogadott) húga. Strahd legújabb obszessziója, a gróf már kétszer megharapta. Harciasabb az átlagnál, de retteg a sorsától. |
-| **Kolyan Indirovich**                                          | Polgármester  | Halott         | A falu korábbi vezetője. Szíve nem bírta Strahd éjszakai rémuralmát és a folyamatos ostromokat.                                          |
-| **Donavich Atya**                                              | Pap           | Megtört        | A Hajnal Urának utolsó helyi papja. Lelke összetört, elméje megbomlott a gyásztól.                                                       |
-| **Doru**                                                       | Vámpírfajzat  | Éhezik (Pince) | Donavich fia. Egy elbukott (őrült varázsló által vezetett) lázadás során vált szörnnyé. Apja a pincébe zárta, megtagadva tőle a vért.    |
-| **Morgantha**                                                  | Árus (Granny) | Él             | Vándorló, jóságosnak tűnő öregasszony, aki gyanús "Álom-süteményeket" (Dream Pastries) árul az utcán.                                    |
-| **Mad Mary**                                                   | Falusi        | Őrült          | Félőrült nő, aki egy rongybabát szorongatva zokog lánya, Gertruda után.                                                                  |
+| Név                                                            | Típus                        | Státusz        | Leírás / Szerep                                                                                                                          |
+| :------------------------------------------------------------- | :--------------------------- | :------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| **Ismark Kolyanovich**<br>![[ismark.png]]                      | Polgármester<br>Szövetséges  | Él             | A falu új (vonakodó) polgármestere, becenevén "Kisebb Ismark". Fő célja, hogy húgát, Ireenát biztonságba helyezze.                       |
+| **Ireena Kolyana**<br>![[ireena.png]]                          | Szövetséges                  | Él             | Ismark (örökbefogadott) húga. Strahd legújabb obszessziója, a gróf már kétszer megharapta. Harciasabb az átlagnál, de retteg a sorsától. |
+| **Kolyan Indirovich**<br>![[kolyan.png]]  | ex- Polgármester             | Halott         | A falu korábbi vezetője. Szíve nem bírta Strahd éjszakai rémuralmát és a folyamatos ostromokat.                                          |
+| **Ismark Antonovich**<br>![[ismark-greater.png]]               | ex-ex-Polgármester           | Halott         | A falu korábbi korábbi vezetője. Kolyan apja, Barovia hőse.                                                                              |
+| **Donavich Atya**<br>![[donavich.png]]                         | Pap                          | Él             | A Hajnal Urának utolsó helyi papja. Lelke összetört a gyásztól.                                                                          |
+| **Doru**<br>![[doru.png]]                                      | Vámpírfajzat                 | Éhezik (Pince) | Donavich fia. Egy elbukott (őrült varázsló által vezetett) lázadás során vált szörnnyé. Apja a pincébe zárta, megtagadva tőle a vért.    |
+| **Morgantha**<br>![[morgantha.png]]                            | Süti árus                    | Halott         | Vándorló, jóságosnak tűnő öregasszony, aki gyanús "Álom-süteményeket" (Dream Pastries) árul az utcán.                                    |
+| **Mad Mary**<br>![[mad-mary.png]]                              | Falusi                       | Őrült          | Félőrült nő, aki egy rongybabát szorongatva zokog lánya, Gertruda után.                                                                  |
+| **Bildrath & Parriwimple**<br>![[bildrath_es_parriwimple.png]] | Kereskedő és a fogadott fia. | Élnek          | Körmönfont kereskedő és a fogadott gyengeelméjű fia, aki egyben a testőre is.                                                            |
