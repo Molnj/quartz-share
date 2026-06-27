@@ -6,6 +6,8 @@ tags:
 
 # Barovia (Falu)
 
+![[map_location_barovia.jpg]]
+
 ![[map_barovia-falu.png]]
 
 > [!info] Helyszín Összefoglaló

@@ -6,6 +6,8 @@ tags:
 
 # Death House (Durst Kúria)
 
+![[map_location_death-house.jpg]]
+
 ![[death-house.png]]
 
 > [!info] Helyszín Összefoglaló
