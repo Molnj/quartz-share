@@ -19,6 +19,7 @@ title: Campaign Hub
 
 - Next Session: https://strawpoll.com/GJn44mjamnz
 - [[quest-log|Quest Log]]
+- [[kajarendeles|Kajarendelés]]
 
 ---
 
