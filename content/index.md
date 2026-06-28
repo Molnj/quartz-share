@@ -25,11 +25,16 @@ title: Campaign Hub
 
 > [!info] Standard v5
 > - **15:00** : kapunyitás
-> - **15:30** : hero point deadline
+> - **15:30** : token deadline
 > - **15:30 - 16:00** : kajarendelés 7-re
 > - **16:00 - 19:00** : 3 h game
 > - **19:00 - 20:00** : 1 h pihi
 > - **20:00 - 23:00** : 3 h game
+>   
+>   **XP szabályok**
+> - Session kihagyás = 0 XP.
+> - Token deadline után minden perc késés = -1% XP
+> - GM tehermentesítés  = +10% XP (*pl slander, session log, etc. - Tárgyalás tárgyát képezheti a feladat után járó pontos %.*)
 
 - VOTE Next Session: https://strawpoll.com/GJn44mjamnz
 - [[quest-log|Quest Log]]
