@@ -1,7 +1,7 @@
 ---
 title: Campaign Hub
 ---
-⭐ **Next Session:** 2026.06.27. ⭐
+⭐ **Next Session:** 2026.07.18. ⭐
 
 ![[strahd-art_wide.jpeg]]
 
@@ -18,6 +18,8 @@ title: Campaign Hub
 | Adro       | **Garaele**  | 6   | 0 / 70 |
 | Dudu       | **Ulduam**   | 6   | 0 / 70 |
 | Gólem      | **Ymerlith** | 6   | 0 / 70 |
+
+-75%
 
 # INFO
 
