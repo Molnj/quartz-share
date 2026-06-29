@@ -3,7 +3,7 @@ tags:
   - tg
   - strahd
 ---
-2026.02.28.
+2026.06.27.
 ![[map_sesh-30.jpg]]
 
 - **11:00** A Vérfarkasveremnél Ezmeralda elbúcsúzik, de Khazam-tornyánál megtaláljátok. Ti elindultok a berezi láp felé, ahol az argynvostholti beosonáshoz szükséges páncélokat akarjátok kiásni.

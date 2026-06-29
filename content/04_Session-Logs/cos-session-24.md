@@ -3,7 +3,7 @@ tags:
   - tg
   - strahd
 ---
-2025.07.19.
+2025.08.30.
 ![[map_sesh-24.jpg]]
 
 - **20:00** A vacsora tálalva. 
