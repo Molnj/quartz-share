@@ -4,7 +4,7 @@ tags:
   - strahd
 ---
 2025.06.21.
-![[map_sesh-21.jpg]]
+![[map_sesh-22.jpg]]
 
 # 3 Fázisos MEGA hosszú semi-boss fight
 

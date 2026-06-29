@@ -4,7 +4,7 @@ tags:
   - strahd
 ---
 2025.05.31.
-![[map_sesh-22.jpg]]
+![[map_sesh-21.jpg]]
 
 # Martikov Pince
 
